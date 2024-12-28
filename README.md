@@ -2,7 +2,7 @@
 Чтобы установить и использовать проект, выполните следующие шаги:
 
 Клонирование репозитория
-git clone https://github.com/arturkoltyrin/vacancies_hhru_SQL.git
+git clone https://github.com/arturkoltyrin/vacancies_hhru_.git
 
 Установка зависимостей
 Убедитесь, что у вас установлен Poetry.
